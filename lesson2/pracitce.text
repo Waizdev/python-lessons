@@ -1,0 +1,123 @@
+✅ Conditionals – Practice Questions
+🟢 Easy
+Even or Odd
+Ask the user to input a number. Print whether it’s even or odd.
+
+Check Age Group
+Input age and display:
+
+"Child" if < 13
+
+"Teenager" if 13–17
+
+"Adult" if 18+
+
+Maximum of Two Numbers
+Take two numbers as input and print the greater one.
+
+Vowel Checker
+Input a letter and check if it's a vowel or consonant.
+
+🟡 Medium
+Grade Calculator
+Input marks (0–100) and print the grade:
+
+A (90+)
+
+B (80–89)
+
+C (70–79)
+
+D (60–69)
+
+F (<60)
+
+Leap Year Checker
+Input a year and check if it's a leap year or not.
+
+🔴 Hard
+Simple Login System
+Ask for username & password. If both match preset values, print “Login Successful”, else “Try Again”.
+
+🔁 Loops – Practice Questions
+🟢 Easy
+Print numbers from 1 to 20
+
+Print table of any number (e.g., table of 7)
+# Output for 7:
+# 7 x 1 = 7
+# 7 x 2 = 14
+# ...
+Sum of 1 to 100
+Use loop to add numbers from 1 to 100 and print total.
+
+🟡 Medium
+Factorial of a Number
+Example: 5! = 5×4×3×2×1 = 120
+
+Reverse a String using Loop
+Input: hello → Output: olleh
+
+Count digits in a number
+Input: 5243 → Output: 4 digits
+
+🔴 Hard
+Fibonacci Series (first N terms)
+Example: 0, 1, 1, 2, 3, 5, 8, 13...
+
+Guess the Number Game (loop until correct)
+Randomly pick a number and let user guess until they get it right.
+
+🧠 Logical Programming Practice Questions
+🟢 Easy
+Check if a number is a multiple of 3 or 5
+
+Find the sum of digits of a number
+Input: 123 → Output: 1+2+3 = 6
+
+Check if a string is a palindrome
+Input: madam → Output: "Yes"
+
+Check if a number is prime
+Input: 7 → Output: Prime
+
+🟡 Medium
+Armstrong Number
+A number that is equal to the sum of its digits each raised to the power of number of digits.
+Example: 153 → 1³ + 5³ + 3³ = 153
+
+Fibonacci series (N terms)
+Generate N terms using a loop: 0, 1, 1, 2, 3, 5, 8...
+
+Print Pattern
+
+markdown
+Copy
+Edit
+*
+* *
+* * *
+Find all prime numbers between 1 to 100
+
+🔴 Hard
+Check if a number is a perfect number
+Example: 28 → 1+2+4+7+14 = 28 ✅
+
+Create a calculator using loops
+User enters operation (+, -, *, /) and two numbers. Runs in loop until user types exit.
+
+Binary to Decimal Converter
+Input: 1011 → Output: 11
+
+Count frequency of each character in a string
+Input: hello → Output: {h:1, e:1, l:2, o:1}
+
+Would you like me to:
+
+Export all these questions to .md?
+
+Provide Python solutions for a few selected ones?
+
+Turn these into mini projects?
+
+Let me know your vibe 😎
