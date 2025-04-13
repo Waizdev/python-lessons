@@ -1,0 +1,54 @@
+🧪 Practice Questions: Lesson 1 – Variables, Data Types & Basic Operations
+🔹 Beginner Level
+Create Variables
+Create variables to store:
+
+Your favorite movie
+
+The year it was released
+
+Its IMDB rating
+
+Whether it's a comedy (True/False)
+
+Simple Arithmetic
+Write a program to add, subtract, multiply, and divide two numbers. Print the results using print().
+
+Personal Info Formatter
+Store your name, age, and hobby in variables, then print a sentence using f-strings, like:
+"Hi, my name is ___, I’m ___ years old, and I love ___."
+______________________________________________________________________________________________________________________________________________________________
+🔹 Intermediate Level
+Calculate Area
+Write a program to calculate the area of a rectangle. The formula is:
+area = length * width
+
+Tip Calculator
+Write a small script that:
+
+Takes a bill amount
+
+Adds a 10% tip
+
+Prints the total bill
+
+Type Guessing Game
+Write code that stores one variable of each type (int, float, str, bool). Then print out each variable and use the type() function to print its data type.
+
+Example:
+
+age = 18
+print(type(age))  # Should show <class 'int'>
+______________________________________________________________________________________________________________________________________________________________
+🔹 Challenge Level
+Age in Months & Days
+Ask a user their age in years (just assign it for now), and then calculate:
+
+Their age in months
+
+Their age in days (approximate, 1 year = 365 days)
+
+Two Numbers, One Line
+Write a program that stores two numbers and prints: "The sum of X and Y is Z"
+using f-strings.
+
